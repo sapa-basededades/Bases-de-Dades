@@ -45,7 +45,7 @@ Els ports de muntanya s’identifiquen pel seu topònim, i tenen una una alçada
      alt="Mallots"
      height = "100" />
 
-Depenent de la dificultat els ports es classifiquen en quatre categories (especial, 1a, 2a i 3a). 
+Depenent de la dificultat els ports es classifiquen en quatre categories (especial, 1a, 2a,3a i 4a). 
 
 Cal dissenyar un sistema per tal d’emmagatzemar els punts que poden assolir els ciclistes segons la posició en què arribin a cada port segons es detalla a continuació.
 
