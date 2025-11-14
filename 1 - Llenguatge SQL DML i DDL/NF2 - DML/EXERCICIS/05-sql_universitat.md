@@ -11,7 +11,7 @@
 
 ## 1.5.1 Model relacional
 
-![Tabla](https://github.com/sapa-basededades/M02-M10-Bases-de-Dades/blob/main/1%20-%20Llenguatge%20SQL%20DML%20i%20DDL/DATABASES/POSTGRESQL/db_Universitat/universitat_erm.png)
+![Tabla](https://github.com/sapa-basededades/Bases-de-Dades/blob/main/1%20-%20Llenguatge%20SQL%20DML%20i%20DDL/DATABASES/POSTGRESQL/db_Universitat/universitat_erm.png)
 
 ## 1.5.2 Scripts de creació de la base de dades
 
