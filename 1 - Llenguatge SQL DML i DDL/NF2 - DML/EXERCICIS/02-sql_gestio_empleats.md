@@ -15,7 +15,7 @@
 
 ## 1.2.1 Model relacional
 
-![Tabla](https://github.com/sapa-basededades/M02-M10-Bases-de-Dades/blob/main/1%20-%20Llenguatge%20SQL%20DML%20i%20DDL/DATABASES/POSTGRESQL/02%20-%20Gesti%C3%B3%20Empleats/gestioempleats_erm.png)
+![Tabla](https://github.com/sapa-basededades/Bases-de-Dades/blob/main/1%20-%20Llenguatge%20SQL%20DML%20i%20DDL/DATABASES/POSTGRESQL/db_empleats/gestioempleats_erm.png)
 
 ## 1.2.2 Scripts de creació de la base de dades
 
