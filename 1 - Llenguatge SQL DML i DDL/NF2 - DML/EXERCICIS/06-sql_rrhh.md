@@ -92,10 +92,27 @@ funció del valor del salari
 8. Volem saber, dels empleats que van ser contractats abans del 1999 i que tenen un salari entre 10000 i 20000, quins pertanyen al departament de Vendes  o de Comptes. Mostrar el codi empleat, nom i cognoms, salari, l’any de la data de contractació i el nom de departament.
 9. Mostra el nom del departament, cognoms i nom de tots els empleats ( encara que no tinguin assignat cap departament ). Ordena les dades per nom departament, cognom i nom
 10. Volem saber, de cada departament, els empleats que té assignats. Mostra el codi de departament, nom del departament, cognoms i nom de l’empleat ( mostra tots els departaments encara que no tinguin assignat cap empleat ). Ordena les dades per nom departament, cognoms i nom d’empleat
+11.  Volem mostrar el nom del departament i el número d’empleats que té. Ordena la informació per nom de departament.
+12.  Mostra els empleats que treballen com a 'Programadors' o 'Venedors' . Volem saber el codi empleat, cognoms, el nom del treball el seu salari, i el salari mínim de la feina a la que estan assignats.
+13.  Mostra els empleats que treballen com a 'Programadors' o 'Venedors' . Volem saber el codi empleat, cognoms, el nom del treball el seu salari, i el salari mínim de la feina a la que estan assignats.
+14.  Partint de la consulta anterior mostra només els que guanyen més de 1000 euros respecte el salari mínim.
+15.  Partint de la taula historial de treballs, volem saber el nom i cognoms, la data inici i fi que va realitzar el treball, el nom del treball i el nom del departament on va estar assignat.
+16.  Volem saber, de cada empleat, el codi d'empleat, el nom i cognoms, el seu salari, el nom del treball que tenen assignat, el nom del departament, la ciutat del departament, el nom de país i el nom de la regió. No cal que mostrar els empleats que no tinguin cap departament o feina asssignada.
+17.  De la consulta anterior mostra també aquells que no tenen cap departament assignat.
+18.  De la consulta anterior mostra també aquelles que no tenen cap feina assignada.
+19.  Volem saber, dels empleats que tenen assignat cap ( jefe ), el codi d’empleat, nom i cognoms i les dades del seu cap ( codi empleat, nom i cognoms )
+20.  Partint de la consulta anterior, ens agradaria afegir la data de contractació tant de l’empleat com la del seu cap, però només volem saber la informació dels empleats que han estat  contractats abans que els seus caps.
+21.  Volem saber  el número total  d’empleats contractats durant el 1996, 1997 i 1998 i el total d’empleats contractats durant aquests anys. Cal mostrar la informació tal com s’indica en la figura.
+
+| Any_1996 | Any_1997 | Any_1998 | Total |
+|----------|----------|----------|-------|
+| 2        | 2        | 3        | 7     | 
+
+
+---- 
 ----
-3. 
+## Cal repassar aquestes exercicis per MySQL
 4. Calcula el nombre d' empleats que treballen en cadascun dels departaments. El resultat d' aquesta consulta també ha d' incloure aquells departaments que no tenen cap empleat associat.
-5. ----Retorna un llistat amb els empleats i les dades dels departaments on treballa cadascú.
 6. Retorna un llistat amb els empleats i les dades dels departaments on treballa cadascú. Ordena el resultat, en primer lloc pel nom del departament (en ordre alfabètic) i en segon lloc pels cognoms i el nom dels empleats.
 7. Retorna un llistat amb el codi i el nom del departament, només d' aquells departaments que tenen empleats.
 8. Retorna un llistat amb el codi, el nom del departament i el valor del pressupost actual de què disposa, només d' aquells departaments que tenen empleats. El valor del pressupost actual el pot calcular restant al valor del pressupost inicial (columna pressupost) el valor de les despeses que ha generat (columna despeses).
