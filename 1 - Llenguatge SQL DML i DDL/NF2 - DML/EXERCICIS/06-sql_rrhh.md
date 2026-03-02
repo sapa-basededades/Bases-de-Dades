@@ -130,32 +130,53 @@ funció del valor del salari
 5. Retorna un llistat amb els empleats que no tenen cap departament associat i els departaments que no tenen cap empleat associat. Ordeni el llistat alfabèticament pel nom del departament.
 
 
-## 1.2.6 Subconsultes
+## 1.2.6 Subconsultes (MySQL)
 
-### 1.2.6.1 Amb operadors bàsics de comparació
+1. Retorna un llistat amb tots els empleats que té el departament 'IT'. (Sense utilitzar INNER JOIN).
+2. Obtenir el id_empleat, nom i salari dels empleats que tenen el mateix salari que l'empleat ‘Pat Fay’
+3. Obtenir el id_empleat, nom i salari dels empleats que tenen un salari superior al de l'empleat ‘Pat Fay’.
+4. Obtenir el id_empleat, cognoms i codi departament dels empleats que treballen en el mateix departament que l'empleat ‘Pat Fay’.
+5. Obté el id_empleat, nom i salari dels empleats que guanyen un salari superior a l'empelat que guanya més del departament de ‘Vendes’
+6. Obté el id_empleat, nom i salari dels empleats que guanyen un salari superior a l'empelat que guanya menys del departament de ‘Vendes’
+7. Obté el id_empleat, nom i salari dels empleats del departament de ‘Compres’ que guanyen més que la mitjana d’aquest departament.
+8. Obté el nom, cognom i data de contractació dels empleats que van ser contractats després de l'empleat  ‘Pat Fay’. Ordena per data de contractació.
+9. Volem saber els cognoms, salari i codi de departament dels empleats que guanyen més que la mitjana dels salaris del departament ‘Compres’. Exlou els que siguin d’aquest departament.
+10. Partint de la consulta anterior, volem saber també el nom del departament dels empleats. Ordena per salari.
+11. Quins empleats (nom/cognom/nom_departament)  pertanyen als mateixos departaments situats a Seattle.
+12. Quins departaments no tenim empleats? Mostra el codi i nom de departament Utilitza l'operador NOT IN
+13. Crea una llista dels empleats mostrant l’inicial del nom juntament amb el cognom separat per un punt ('.'), el salari, el nom del departament de cada empleat que guanyi més de la mitjana del seu propi departament.
+14. Dels empleats que no treballen a cap departament indica quins són els que guanyen més? (nom,cognoms i salari).
+15. Volem saber quins empleats guanyen més de cada departament. Mostra el codi empleat, nom, codi de departament, nom departament i salari. Utilitza l’operador IN.
+16. Volem saber el nom, cognoms i salari dels empleats que guanyen més QUE ALGUN dels empleats del departament  de ‘Vendes’.
+17. Volem saber el nom, cognoms i salari dels empleats que guanyen més QUE TOTS els empleats del departament de ‘Vendes’.
+18. Quants empleats tenim del departament de ‘IT’ que van ser contractats abans que QUE ALGUN empleat del departament de ‘Vendes’? Mostra els cognoms i la data de contractació.
+19. Quants empleats tenim del departament de ‘IT’ que van ser contractats abans que TOTS els empleats del departament de ‘Vendes’? Mostra els cognoms i la data de contractació.
+20. Utilitzant l’operador EXISTS. Volem saber els departaments que tenen assignats empleats.
+21. Dels empleats que han tingut 3 feines quins d’aquests estan treballant actualment al departament de Vendes.
+22. Mostra els empleats(nom,cognoms,salari,nom_departament) que cobrin més que el doble de la mitjan del departament ‘Vendes’.
+23. Partint de la consulta anterior exclou els empleats del departament de ‘Vendes’.
+24. Mostra els departaments (identificador i nom) a on tots els empleats tinguin un salari més alt que la mitjana de tots els empleats amb salari superior a 2.000.
 
-1. Retorna un llistat amb tots els empleats que té el departament de Sistemes. (Sense utilitzar INNER JOIN).
-2. Retorna el nom del departament amb major pressupost i la quantitat que té assignada.
-3. Retorna el nom del departament amb menor pressupost i la quantitat que té assignada.
-
-### 1.2.6.2 Subconsultes amb ALL i ANY
+## 1.2.7 Subconsultes (PostgreSQL)
+----  
+### 1.2.7.2 Subconsultes amb ALL i ANY
 
 1. Retorna el nom del departament amb major pressupost i la quantitat que té assignada. Sense fer ús de MAX, ORDER BY ni LIMIT.
 2. Retorna el nom del departament amb menor pressupost i la quantitat que té assignada. Sense fer ús de MIN, ORDER BY ni LIMIT.
 3. Retorna els noms dels departaments que tenen empleats associats. (Utilitzant ALL o ANY).
 4. Retorna els noms dels departaments que no tenen empleats associats. (Utilitzant ALL o ANY).
 
-### 1.2.6.3 Subconsultes amb IN i NOT IN
+### 1.2.7.3 Subconsultes amb IN i NOT IN
 
 1. Retorna els noms dels departaments que tenen empleats associats. (Utilitzant IN o NOT IN).
 2. Retorna els noms dels departaments que no tenen empleats associats. (Utilitzant IN o NOT IN).
 
-### 1.2.6.4 Subconsultes amb EXISTS i NOT EXISTS
+### 1.2.7.4 Subconsultes amb EXISTS i NOT EXISTS
 
 1. Retorna els noms dels departaments que tenen empleats associats. (Utilitzant EXISTS o NOT EXISTS).
 2. Retorna els noms dels departaments que tenen empleats associats. (Utilitzant EXISTS o NOT EXISTS).
 
-## 1.2.7 Window Functions
+## 1.2.8 Window Functions
 
 1. Per cada empleat volem mostrar una columna a on hi hagi el número  total d’empleats del seu departament.
 2. Per cada empleat volem mostrar la mitjana de salari del seu departament, el salari més alt, el salari més baix i les diferències del seu salari entre el més alt i el més baix
