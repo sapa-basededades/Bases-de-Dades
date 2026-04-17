@@ -55,6 +55,12 @@
 
 ---
 
+## :notebook:<a id="exercicis_plataformes"></a> Exercicis Plataformes
+
+* :pencil: [Exercicis Strata Scratch](EXERCICIS-STRATASCRATCH/README.md)
+
+---
+
 ## :books: <a id="links"></a></a> Links interessants
 
 * :link:[AAAA]()
