@@ -1,4 +1,4 @@
-# Exercicis StrataScratch ![Logo Strata Scratch](logo_stratascratch.wwebp)
+# Exercicis StrataScratch ![Logo Strata Scratch](logo_stratascratch.webp)
 
 Aquesta secció conté exercicis resolts extrets de la plataforma [Strata Scratch](www.stratascratch.com). Aquesta plataforma ofereix la possibilitat de practicar amb preguntes relacionades amb eines utilitzades en l'àmbit de l'anàlisi de dades, com ara Analytical Questions, Algorithm Questions, Visualization Questions, així com llenguatges i tecnologies com SQL, Python, Python-Pandas, Python-Polars, PySpark, R, entre d’altres.
 
