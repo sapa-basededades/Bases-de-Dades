@@ -57,8 +57,8 @@
 
 ## :notebook:<a id="exercicis_plataformes"></a> Exercicis Plataformes
 
-* :pencil: [Exercicis Strata Scratch](EXERCICIS-STRATASCRATCH/README.md)[Site oficial](https://www.stratascratch.com/)
-* :pencil: [Exercicis LeetCode](EXERCICIS-LEETCODE/README.md)[Site oficial](https://leetcode.com/problemset/)
+* :pencil: [Exercicis Strata Scratch](EXERCICIS-STRATASCRATCH/README.md) - :link:[Site oficial](https://www.stratascratch.com/)
+* :pencil: [Exercicis LeetCode](EXERCICIS-LEETCODE/README.md) - :link:[Site oficial](https://leetcode.com/problemset/)
 
 ---
 
