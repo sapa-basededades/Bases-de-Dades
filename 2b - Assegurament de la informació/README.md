@@ -6,41 +6,38 @@ Aquest curs t'ensenyarà tot el que necessites saber sobre com realitzar còpies
 
 També aprendrem a fer entorns d'alta disponibitat per aplicacions crítiques o que tenen gran volum d'usuaris. Per últim aprendrem a com enllaçar el nostre SGBD amb altres SGBD, molt habitual a les empreses
 
-## [1. Backups](<CONTINGUTS/BACKUPS/pg_backups.md>)
+## [1. Backups](<CONTINGUTS/POSTGRESQL/BACKUPS/pg_backups.md>)
 
 <img src="./assets/backup.png"
      alt="SQL"
      style="float: left; margin-right: 10px; width:50px" />
 
-## [2. Alta disponibilitat - Clustering](<CONTINGUTS/CLUSTERING/pg_clusters.md>)
+## [2. Alta disponibilitat - Clustering](<CONTINGUTS/POSTGRESQL/CLUSTERING/pg_clusters.md>)
 
 <img src="./assets/cluster.png"
      alt="SQL"
      style="float: left; margin-right: 10px; width:50px" />
 
-
-## [3. Alta disponibilitat - Replicació](<CONTINGUTS/REPLICATION/pg_replication.md>)
-
-<img src="./assets/cluster.png"
-     alt="SQL"
-     style="float: left; margin-right: 10px; width:50px" />
-
-
-## [4. Tuning BD](<CONTINGUTS/TUNING/pg_tuning.md>)
+## [3. Extensions PostgreSQL](<CONTINGUTS/POSTGRESQL/EXTENSIONS/README.md>)
 
 <img src="./assets/cluster.png"
      alt="SQL"
      style="float: left; margin-right: 10px; width:50px" />
 
-
-## [5. Interconnectivitat](<CONTINGUTS/INTERCONNECT/pg_interconnect.md>)
+## [4. Bases de dades orientades a grafs - Neo4j](<CONTINGUTS/NEO4J/README.md>)
 
 <img src="./assets/inter.png"
      alt="SQL"
      style="float: left; margin-right: 10px; width:50px" />
 
-## [6. Datamasking](<CONTINGUTS/INTERCONNECT/pg_datamasking.md>)
+## 5. Alta disponibilitat - Replicació
 
-<img src="./assets/inter.png"
-     alt="SQL"
-     style="float: left; margin-right: 10px; width:50px" />
+*Properament*
+
+## 6. Tuning BD
+
+*Properament*
+
+## 7. Interconnectivitat i Datamasking
+
+*Properament*

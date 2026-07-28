@@ -4,12 +4,11 @@
 
 ### PostgreSQL
 
-* :closed_book:[UOC El llenguatge SQL](<CONTINGUTS/M02_UF2_NF1_DOC00A_UOC_El_lenguaje_SQL_v2023.pdf>)
 * :closed_book:[IOC El llenguatge DML](<CONTINGUTS/M02_UF2_NF1_DOC00B_IOC_Llenguatge%20DML_v2023.pdf>)
 
 ### MySQL
 
-* :closed_book:[El llenguatge SQL](<CONTINGUTS/M02-UF2.pdf>)
+* *Properament*
 ---
 
 ## :notebook: Presentacions (PPT)
@@ -58,12 +57,12 @@
 ## :notebook:<a id="exercicis_plataformes"></a> Exercicis Plataformes
 
 * :pencil: [Exercicis Strata Scratch](EXERCICIS-STRATASCRATCH/README.md) - :link:[Site oficial](https://www.stratascratch.com/)
-* :pencil: [Exercicis LeetCode](EXERCICIS-LEETCODE/README.md) - :link:[Site oficial](https://leetcode.com/problemset/)
+* :pencil: Exercicis LeetCode - :link:[Site oficial](https://leetcode.com/problemset/) *(properament)*
 
 ---
 
 ## :books: <a id="links"></a></a> Links interessants
 
-* :link:[AAAA]()
+* *Properament*
 
 ---

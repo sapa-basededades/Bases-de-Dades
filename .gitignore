@@ -1,0 +1,12 @@
+# Fitxers temporals del sistema operatiu
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Fitxers temporals d'edició d'Office (~$fitxer.docx, etc.)
+~$*
+*.tmp
+
+# Entorns / editors
+.vscode/
+.idea/

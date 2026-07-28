@@ -22,4 +22,4 @@ Aquesta base de dades vol simular una BD de curses de muntanya amb bicicleta. Le
 
 ## Exercicis
 
-En el següent [enllaç](exercicis.md) trobareu un llistat d'exercicis
+En el següent [enllaç](exercicis-dml.md) trobareu un llistat d'exercicis

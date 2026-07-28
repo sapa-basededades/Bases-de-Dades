@@ -7,7 +7,7 @@
 * [db_vendes](<db_vendes/README.md>)
 * [db_jardineria](<db_jardineria/README.md>)
 * [db_universitat](<db_universitat/README.md>)
-* [db_adventureworks](<db_Adventureworks/README.md>)
+* [db_adventureworks](<db_adventureworks/README.md>)
 * [db_hr](<db_hr/README.md>)
 * [db_pagila](<db_pagila/README.md>)
 * [db_scott](<db_scott/README.md>)

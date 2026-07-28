@@ -10,7 +10,7 @@ Aquesta base de dades va destinada a usos didàctics en assignatures com base de
 
 * Model de la base de dades en format Workbench  [model-covid_db.mwb](./model-covid_db.mwb)
 * El fitxer [covid_db-schema.sql](./covid_db-schema.sql) conté les sentències DDL per la generació de l'esquema/estructura de la base de dades.
-* El fitxer [covid_db-data.zip](covid_db-data.zip) conté les sentències DML per poder afegir les dades per cada taula de la la base de dades.
+* Les dades de cada taula es carreguen amb els fitxers [provincies.sql](provincies.sql), [comarques.sql](comarques.sql), [municipis.sql](municipis.sql), [tipus_casos.sql](tipus_casos.sql), [casos.sql](casos.sql), [centres_educatius.sql](centres_educatius.sql) i [centres_educatius_casos.sql](centres_educatius_casos.sql).
 
 Les seves taules principals són:
 

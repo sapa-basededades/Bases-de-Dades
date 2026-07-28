@@ -38,6 +38,6 @@
 ## :closed_book: Material Addicional
 
 * :closed_book:[Temari IOC - Model ER](CONTINGUTS/M02_UF1_NF2_DOC00_IOC_Model%20ER_v2023.pdf)
-* :closed_book:[Temari UOC - Model ER](CONTINGUTS/M02_UF1_NF2_DOC00_UOC_Model%20ER_v2023.pdf)
+* :closed_book:[Temari SAPA - Model ER](CONTINGUTS/M02_UF1_NF2_DOC00_SAPA_Model%20ER_v2023.pdf)
 
 ---

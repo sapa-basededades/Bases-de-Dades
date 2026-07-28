@@ -14,8 +14,8 @@ Està estructurat seguint les parts dels diferents mòduls.
 
 * [Introducció a les Bases de Dades](<0 - Introducció a les Bases de Dades/README.md>)
 * [Llenguatge SQL: DML i DDL](<1 - Llenguatge SQL DML i DDL/README.md>)
-* [Llenguatge SQL: DCL i extensió procedimental](<2a - LLenguatge SQL DCL i extensió procedimental>)
-* [Base de dades Objecte Relacionals](<3 - Bases de Dades Objecte-Relacionals>)
+* [Llenguatge SQL: DCL i extensió procedimental](<2a - Llenguatge SQL DCL i extensió procedimental>)
+* [Base de dades Objecte Relacionals](<3 - Bases de dades Objecte-Relacionals>)
 * [Base de dades NoSQL - MongoDB](<4 - Bases de dades NOSQL>)
 * [Assegurament de la informació](<2b - Assegurament de la informació>)
 * [SGBD corporatiu](<5 - SGBD Corporatiu>)
@@ -69,3 +69,7 @@ Databases Schemas:
 3. Database universidad,tienda,gestion,jardineria -> josejuansanchez [https://github.com/josejuansanchez](https://github.com/josejuansanchez)
 4. Database Northwind: basat en "Microsoft sample databases for sql-server" [https://github.com/Microsoft/sql-server-samples](https://github.com/Microsoft/sql-server-samples)
 5. Database regex: basat en [https://hevodata.com/learn/postgresql-regex/](https://hevodata.com/learn/postgresql-regex/)
+
+## Llicència
+
+Aquest material es distribueix sota la llicència [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE). Consulta l'apartat "Reconeixements" per a l'atribució dels esquemes de bases de dades de tercers.

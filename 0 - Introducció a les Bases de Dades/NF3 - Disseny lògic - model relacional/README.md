@@ -10,15 +10,15 @@
 * :blue_book:[Model Relacional](CONTINGUTS/M02_UF1_NF3_DOC01_Model%20Relacional_v2023.pdf)
 * :blue_book:[Pas a model Relacional](CONTINGUTS/M02_UF1_NF3_DOC02_Pas%20a%20Model%20Relacional_v2023.pdf)
 * :blue_book:[Normalització](CONTINGUTS/M02_UF1_NF3_DOC03_FormesNormals_v2023.pdf)
-* :blue_book:[Crow's Foot Notation](CONTINGUTS/crowsfootnotation.pdf)
+* :blue_book:[Crow's Foot Notation](<../NF2 - Disseny conceptual - model ER/CONTINGUTS/M02_UF1_NF2_DOC03_CrowsFootNotation_v2023.pdf>)
 
 ---
 
 ## :notebook: Exercicis Model ER - Conceptes bàsics
 
 * :notebook:[Exercici Transformar a Model Relacional I](EXERCICIS/M02_UF1_NF3_EXE00_Transformar_a_Model_Relacional_I_v2023.docx)
-* :notebook:[Exercici Transformar a Model Relacional II](EXERCICIS/M02_UF1_NF3_EXE00_Transformar_a_Model_Relacional_II_v2023.docx)
-* :notebook:[Exercici Transformar a Model Relacional III](EXERCICIS/M02_UF1_NF3_EXE00_Transformar_a_Model_Relacional_III_v2023.docx)
+* :notebook:[Exercici Transformar a Model Relacional II](EXERCICIS/M02_UF1_NF3_EXE01_Transformar_a_Model_Relacional_II_v2023.docx)
+* :notebook:[Exercici Transformar a Model Relacional III](<EXERCICIS/M02_UF1_NF3_EXE02_Transformar_a_Model_Relacional III_v2023.docx>)
 * :notebook:[Exercici Volta Ciclista](EXERCICIS/M02_UF1_NF3_EXE03_Exercici_VoltaCiclista.docx)
 * :notebook:[Exercici Concesionari](EXERCICIS/M02_UF1_NF3_EXE05_Exercici-Concesionari.docx)
 * :notebook:[Exercici Volta Eleccions](EXERCICIS/M02_UF1_NF3_EXE04_Exercici-Eleccions.docx)
